@@ -5,7 +5,7 @@ const options = {
   uri: "https://icanhazdadjoke.com/",
   headers: {
     Accept: "application/json",
-    "User-Agent": "Writing JavaScript action GitHub Skills course.",
+    "User-Agent": "Writing JavaScript action GitHub  Skills course.",
   },
   json: true,
 };
